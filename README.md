@@ -20,6 +20,9 @@ WAI [a]:wait the key a
 「通常メッセージ」
 「「キーヘルプメセージ」」
 「「「上部情報、基本使わない」」」
+
+$$$ address
+[$] //input key
 */
 
 #loading //config
