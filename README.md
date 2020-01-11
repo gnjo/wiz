@@ -13,6 +13,7 @@ $ memory
 !! is sound effect
 @ is board image
 @@ is character
+@@@ character effect //futured
 WAI:select wait
 WAI 300:active wait
 WAI [a]:wait the key a
