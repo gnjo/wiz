@@ -4,10 +4,6 @@ simple map walk macro.
 ```
 ```
 /*command help
-#TITLE
-@black
-!walksong
-こまち「泉の水を飲みますか？」
 
 >>>#TITLE
 $ memory
@@ -66,6 +62,9 @@ FON FFFFFF
 
 //entrypoint
 #TITLE
+@black
+!walksong
+こまち「泉の水を飲みますか？」
 
 #other...
 
