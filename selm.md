@@ -7,6 +7,10 @@ text
 endmark
 cursol
 caller
+posX
+posY
+value
+stockvalue
 a//decide
 b//back
 u//up arrow
