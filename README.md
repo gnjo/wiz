@@ -1,4 +1,6 @@
 # wiz
+
+
 ```
 simple map walk macro.
 ```
