@@ -9,6 +9,7 @@ cursol
 caller
 posX
 posY
+endflg
 value
 stockvalue
 a//decide
